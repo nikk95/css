@@ -39,6 +39,6 @@ Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [
 ##Moral Support
 
 Shaleen.
-just because it smy site and I can.
+just because it's my site and I can.
 
 
