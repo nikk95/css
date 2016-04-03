@@ -1,16 +1,18 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# [Start Bootstrap](http://startbootstrap.com/)
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap]
+
+## Editing Team
+Nikil Augustine
+Jojo Thomas
+Apoorv Chamoli 
+Rishab Kumar
+
 
 ## Credits
 
 All the appropriate channels from which the data has been taken has been shared. we have copied the theme then edited it from the scratch often mixing things up to create a whole new experience.
 
-## Editing Team
-Jojo Thomas (minor image editing work)
-Nikil Augustine (doing everything else)
-Apoorv CHamoli
-Rishab Kumar
 
 ## Getting Started
 
